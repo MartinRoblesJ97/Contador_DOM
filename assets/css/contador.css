@@ -1,0 +1,43 @@
+body{
+    background-color: #c7d5e0;
+}
+
+h1{
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+h2{
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+.container{
+    text-align: center;
+}
+
+#decremento{
+    background-color: rgba(10, 10, 146, 0.616);
+    color: white;
+    border-radius: 15px;
+    padding: 10px;
+    margin: 5px;
+}
+
+#incremento{
+    background-color: rgb(141, 8, 35);
+    color: white;
+    border-radius: 15px;
+    padding: 10px;
+    margin: 5px;
+}
+
+#reset{
+    background-color: rgba(4, 109, 4, 0.801);
+    color: white;
+    border-radius: 15px;
+    padding: 10px;
+    margin: 5px;
+}
